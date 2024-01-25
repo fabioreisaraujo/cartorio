@@ -1,30 +1,22 @@
 [
   {
     "item": "CADASTRO",
-    "subitem": {
-      "nome": ["Funcionário", "Clientes", "Localidades", "Tipo de Localidades", "Livros", "Tipo de Livro", "Folhas de Livros"],
-      "link": ["funcionario.html", "clientes.html", "localidades.html", "localidadestipo.html", "livros.html", "livrostipo.html", "livrosfolhas.html"]
-    }
+    "subitem": ["Funcionário", "Clientes", "Localidades", "Tipo de Localidades", "Livros", "Tipo de Livro", "Folhas de Livros"],
+    "link": ["funcionario.html", "clientes.html", "localidades.html", "localidadestipo.html", "livros.html", "livrostipo.html", "livrosfolhas.html"] 
   },
   {
     "item": "INDICADOR PESSOAL",
-    "subitem": {
-      "nome": ["Indicador Pessoal", "Nomes", "Tipo de Nomes"],
-      "link": ["indicadorpessoal.html", "nomes.html", "nomestipo.html"]
-    }
+    "subitem": ["Indicador Pessoal", "Nomes", "Tipo de Nomes"],
+    "link": ["indicadorpessoal.html", "nomes.html", "nomestipo.html"]
   },
   {
     "item": "INDICADOR REAL",
-    "subitem": {
-      "nome": ["Indicador Real", "Localidades", "Tipo de Nomes"],
-      "link": ["indicadorpessoal.html", "localidades.html", "nomestipo.html"]
-    }
+    "subitem": ["Indicador Real", "Localidades", "Tipo de Nomes"],
+    "link": ["indicadorpessoal.html", "localidades.html", "nomestipo.html"]
   },
   {
     "item": "NOTAS",
-    "subitem": {
-      "nome": ["Declaração de Óbito", "Procurações"],
-      "link": ["obito.html", "obitolivro.html", "procuracoes.html"]
-    }
+    "subitem": ["Declaração de Óbito", "Procurações"],
+    "link": ["obito.html", "obitolivro.html", "procuracoes.html"]
   }
 ]
