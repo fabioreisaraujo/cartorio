@@ -1,0 +1,29 @@
+[
+  {
+    "item": "CADASTRO",
+    "subitem": [
+      "Funcionário",
+      "Clientes",
+      "Tipo de Localidades",
+      "Localidades",
+      "Livros",
+      "Tipo de Livro",
+      "Folhas"
+    ]
+  },
+  {
+    "item": "INDICADOR PESSOAL",
+    "subitem": ["Nomes", "Tipo de Nomes"]
+  },
+  {
+    "item": "INDICADOR REAL",
+    "subitem": ["Nomes", "Tipo de Nomes"]
+  },
+  {
+    "item": "NOTAS",
+    "subitem": {
+      "nome": ["Declaração de Óbito", "Livro de Óbito"],
+      "link": ["obito.html", "Livro de Óbito"]
+    }
+  }
+]
